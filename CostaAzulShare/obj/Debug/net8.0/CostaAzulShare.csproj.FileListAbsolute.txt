@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\CostaAzulShare\bin\Debug\net8.0\CostaAzulShare.deps.json
+C:\Users\victo\source\repos\CostaAzulShare\bin\Debug\net8.0\CostaAzulShare.dll
+C:\Users\victo\source\repos\CostaAzulShare\bin\Debug\net8.0\CostaAzulShare.pdb
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\CostaAzulShare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\CostaAzulShare.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\CostaAzulShare.AssemblyInfo.cs
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\CostaAzulShare.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\CostaAzulShare.dll
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\refint\CostaAzulShare.dll
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\CostaAzulShare.pdb
+C:\Users\victo\source\repos\CostaAzulShare\obj\Debug\net8.0\ref\CostaAzulShare.dll
