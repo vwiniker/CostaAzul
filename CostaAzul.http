@@ -1,0 +1,6 @@
+@CostaAzul_HostAddress = http://localhost:5071
+
+GET {{CostaAzul_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
